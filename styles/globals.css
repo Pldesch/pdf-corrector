@@ -4,7 +4,7 @@
 
 @layer base{
   body{
-    @apply bg-slate-800 text-slate-100 h-full;
+    @apply bg-slate-900 text-slate-100 h-full;
   }
 
   h3{
